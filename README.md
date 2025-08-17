@@ -1,1 +1,1 @@
-[1]	CY Teh, YW Kerk, KM Tay, CP Lim,“On modeling of data-driven monotone zero-order TSK fuzzy inference systems using a system identification framework” IEEE Transactions on Fuzzy Systems 26 (6), 3860-3874,2018
+
